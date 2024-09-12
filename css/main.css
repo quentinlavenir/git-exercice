@@ -1,0 +1,29 @@
+body {
+  padding: 50px;
+}
+
+.classe {
+  border: 1px solid black;
+  display: flex;
+  padding: 50px;
+}
+
+.personne {
+  border: 1px solid grey;
+  border-radius: 50%;
+  width: 180px;
+  height: 180px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 1.3em;
+  margin: 0 20px;
+}
+
+.formateur {
+  background-color: thistle;
+}
+
+.eleve {
+  background-color: honeydew;
+}
